@@ -17,7 +17,7 @@
 - [2020-12-03: SBCLの改行コードをなんとかしようとした黒歴史 by @t-sin](articles/2020-12-03.md)
 - [2020-12-04: lemでlanguage server protocolの対応 by @cxxxr](articles/2020-12-04.md)
 - [2020-12-05: PostScript meets S式 by @t-sin](articles/2020-12-05.md)
-- [2020-12-06: 〈ここに記事タイトル〉 by @書いたひと](articles/2020-12-06.md)
+- [2020-12-06: アセンブリ言語でForthを実装できなかった by @t-sin](articles/2020-12-06.md)
 - [2020-12-07: 〈ここに記事タイトル〉 by @書いたひと](articles/2020-12-07.md)
 - [2020-12-08: 〈ここに記事タイトル〉 by @書いたひと](articles/2020-12-08.md)
 - [2020-12-09: 〈ここに記事タイトル〉 by @書いたひと](articles/2020-12-09.md)
