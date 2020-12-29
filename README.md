@@ -35,5 +35,5 @@
 - [2020-12-21: OpenGLの仕様を読んでいる道なかば by @t-sin](articles/2020-12-21.md)
 - [2020-12-22: 新しいプログラミング用和文フォントを作る by @tani](articles/2020-12-22.md)
 - [2020-12-23: シェーダアートに入門していた by @t-sin](articles/2020-12-23.md)
-- [2020-12-24: lis by @t-sin](articles/2020-12-24.md)
+- [2020-12-24: リスをLispで実装したい by @t-sin](articles/2020-12-24.md)
 - [2020-12-25: 無 by @t-sin](articles/2020-12-25.md)
